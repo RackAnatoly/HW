@@ -1,0 +1,18 @@
+.superInput {
+    background-color: black;
+}
+
+.errorInput {
+    border: 1px solid lightpink;
+    background-color: lightpink;
+}
+
+.error {
+    color: red;
+}
+.blue{
+ color: blue;
+}
+.testSpanError{
+    color: green;
+}

@@ -1,0 +1,10 @@
+.default {
+background-color: gold;
+}
+
+.red {
+    background: red;
+}
+.default:disabled{
+    background-color: bisque;
+}
