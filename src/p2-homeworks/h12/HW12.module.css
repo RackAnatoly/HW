@@ -1,3 +1,11 @@
+.black {
+    background: black;
+}
+
+.black-text {
+    color: white;
+}
+
 .dark {
     background: dimgrey;
 }
@@ -14,10 +22,15 @@
     color: aqua;
 }
 
-.some {
+.lightgreen {
     background: lightgreen;
 }
-
-.some-text {
-    color: darkslateblue;
+.lightgreen-text {
+    color: red;
+}
+.white {
+    background: white;
+}
+.white-text {
+    color: black;
 }

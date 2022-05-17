@@ -1,6 +1,7 @@
 const initState = {
     isLoading: false
 }
+
 export type PropsType={
     isLoading:boolean;
 }
